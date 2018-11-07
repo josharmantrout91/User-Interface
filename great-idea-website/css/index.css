@@ -80,6 +80,13 @@ header {
 	margin: 20px;
 	}
 
+.navigation nav a {
+	display: inline-block;
+	font-size: 14px;
+	text-decoration: none;
+	
+}
+
 .logo {
 	display: inline-block;
 }
